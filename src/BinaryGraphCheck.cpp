@@ -1,4 +1,4 @@
-#include "../include/graph/algorithm/BinaryGraphCheck.h"
+ #include "../include/graph/algorithm/BinaryGraphCheck.h"
 
 #include <queue>
 

@@ -77,8 +77,8 @@ CMake 3.10+（test.cpp与main.cpp使用了windows.h头文件用于控制输出�
 - 编译步骤
     
 	
-    git clone https://github.com/Hello-Liu0618/GraphToolsForPS.gitb
-    cd graphTools_for_PS_2025fall
+    git clone https://github.com/Hello-Liu0618/GraphToolsForPS.github
+    cd GraphToolsForPS
     
     make
     
